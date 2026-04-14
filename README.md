@@ -19,25 +19,19 @@ Outside of work I build personal AI projects, write about what I'm learning, and
 
 **[Family Financial Assistant](https://github.com/TheDahv/financial-assistant)**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 A household AI agent connecting Monarch Money to a shared Telegram interface, running persistently on a home Mac Mini with zero cloud costs. Dual-mode: scheduled reports push proactively, a tool-driven layer handles ad hoc questions. Built on MCP, LangChain, and APScheduler.
 
 **[AI Dungeon Master](https://github.com/TheDahv/family-dnd)**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 LLM-powered D&D Dungeon Master for family tabletop sessions — voice synthesis, structured session state, enforced dice randomness. Multi-modal design follows players from desktop to terminal to mobile. Shipped to real users. Written about on [the blog](https://www.thedahv.com/blog/my-kids-have-a-new-dungeon-master/).
 
 **[Wine Pairing Suggestions](https://wine-suggestions.thedahv.com)**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 Food-first AI pairing tool deployed on AWS Lambda via SAM. Multi-provider LLM support, response caching. Documented in a [four-part build series](https://www.thedahv.com/blog/wine-pairings-and-ai-part-4/).
 
