@@ -7,7 +7,7 @@
 ](https://www.thedahv.com/blog)
 [![Twitter](https://img.shields.io/badge/@thedahv-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thedahv)
 
-Sr. Technical Product Manager based in Seattle. I spent 10+ years as a software engineer before moving into product — and I never really stopped building.
+Sr. Technical Product Manager based in Seattle. I spent 10+ years as a software engineer before moving into product and I never really stopped building.
 
 At **Amazon** and **Moz**, I've led AI/ML products, data platforms, and developer-facing tools from zero to launch — shipping sentiment platforms across 245K+ feedback touchpoints, growing products to $73K ARR in beta, and cutting prototype cycles from months to weeks. I'm most effective working at the intersection of technical depth and customer outcomes: going deep enough to earn engineering trust while keeping the work anchored to what actually matters.
 
@@ -19,7 +19,7 @@ Outside of work I build personal AI projects, write about what I'm learning, and
 
 **[Family Financial Assistant](https://github.com/TheDahv/financial-assistant)**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 A household AI agent connecting Monarch Money to a shared Telegram interface, running persistently on a home Mac Mini with zero cloud costs. Dual-mode: scheduled reports push proactively, a tool-driven layer handles ad hoc questions. Built on MCP, LangChain, and APScheduler.
 
